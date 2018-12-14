@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  		"gmod4phun\weapons\cslr4\wp_58snp_clip_0001_d"
+	"$bumpmap"     			"gmod4phun\weapons\cslr4\wp_58snp_clip_0001_n"
+	"$phongexponenttexture"	"gmod4phun\weapons\cslr4\wp_58snp_clip_0001_s"
+	$metal	1
+	$roughnessmultiplier		1
+    $nocull      1
+}

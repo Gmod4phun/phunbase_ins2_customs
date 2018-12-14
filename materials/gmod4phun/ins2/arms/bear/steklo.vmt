@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gmod4phun/ins2/arms/Bear/Steklo"
+	"$additive" 1
+	"$alphatest" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+}

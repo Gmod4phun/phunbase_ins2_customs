@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture" "gmod4phun\weapons\remington_700\r700_d"
+	"$bumpmap"     "gmod4phun\weapons\remington_700\r700_n"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "gmod4phun\weapons\remington_700\r700_m"
+
+	"$normalmapalphaenvmapmask" 1
+	"$phong" 1
+	"$phongexponent" 10
+	"$phongboost" 1
+	"$phongfresnelranges" "[1 1 1]"
+	$envmaptint "[0.01 0.01 0.01]"
+
+	$phongalbedotint 1
+	$halflambert 1
+}
+
+

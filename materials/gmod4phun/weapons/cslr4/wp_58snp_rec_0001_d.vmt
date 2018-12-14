@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  		"gmod4phun\weapons\cslr4\wp_58snp_rec_0001_d"
+	"$bumpmap"     			"gmod4phun\weapons\cslr4\wp_58snp_rec_0001_n"
+	
+	"$nocull" "1"
+
+	// PHONG SHADING
+	$phong                      	1
+	$phongboost                	0.15
+	$phongfresnelranges        	"[2 4 6]"
+	$phongtint 			"[0.6 0.8 1]"
+	$phongexponenttexture       	"gmod4phun\weapons\cslr4\wp_58snp_rec_0001_s"
+	$phongalbedotint            	1
+	$phongalbedoboost           	48
+	$normalmapalphaphongmask    	1
+}

@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun\weapons\glock20\glock"
+	"$bumpmap"	"gmod4phun\weapons\glock20\glock_n"
+	// "$envmap" "env_cubemap"
+	"$envmap" 					 	"phunbase/envmaps/metal_generic_003"
+	"$envmaptint" "[.2 .2 .2]"
+	"$normalmapalphaenvmapmask" 	"1"
+	
+	"$basemapalphaphongmask" 	"1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[0.5 0.9 1.5]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+	
+	"Proxies"
+	{
+		"PB_ENVMAPTINT_REALTIME_COLOR"
+		{
+			"min" "0"
+			"max" "0.15"
+		}
+	}
+}

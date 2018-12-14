@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$baseTexture" "gmod4phun/weapons/m98b/bunneh_frontsight_d"
+	$selfillum 1
+	$selfillummask "gmod4phun/weapons/m98b/bunneh_frontsight_selfillum"
+	
+	"$bumpmap" "gmod4phun/weapons/m98b/bunneh_frontsight_n"
+	"$nocull"	"1"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"466"
+	"$phongboost"   "2.2"
+	"$phongfresnelranges"   "[1 8 4]"
+                "$phongtint"                   "[0.35 0.33 0.5]" 
+	"$rimlight" "1"
+	"$rimlightexponent" "28"	
+	"$rimlightboost" "0.2"
+}

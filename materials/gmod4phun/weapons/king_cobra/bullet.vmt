@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"gmod4phun\weapons\king_cobra\v_357_d"
+	"$bumpmap"					"gmod4phun\weapons\king_cobra\v_357_n"
+	"$phongexponenttexture"		"gmod4phun\weapons\king_cobra\v_357_e"
+
+	"$normalmapalphaenvmapmask" 	"1"	
+	"$envmap" 					 	"phunbase/envmaps/metal_generic_002"
+	"$envmaptint"			"[0.4 0.3 0.2]"
+	"$envmapfresnel"		"1"
+
+	"$phong"				"1"
+	"$phongboost"			"2"
+	"$phongfresnelranges"	"[2 3 4]"
+	"$phongtint"			"[0.36 0.16 0.16]"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost"		"1"
+	"$halflambert"			"1"
+
+	$rimlight               1
+	$rimlightexponent       250
+	$rimlightboost          .01	
+	$rimmask 1
+	
+	"Proxies"
+	{
+		"PB_ENVMAPTINT_REALTIME_COLOR"
+		{
+			"min" "0"
+			"max" "0.75"
+		}
+	}
+}
+
+
