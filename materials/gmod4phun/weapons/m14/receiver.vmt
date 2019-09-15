@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "gmod4phun\weapons\m14\Receiver"
+	"$bumpmap" "gmod4phun\weapons\m14\Receiver_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "0.3"
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"
+}

@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
-	"$baseTexture" "models\cw2\shotguns\m3\M3"
-	"$bumpmap"     "models\cw2\shotguns\m3\M3_NORM"
+	"$baseTexture" "gmod4phun\weapons\m3super90\M3"
+	"$bumpmap"     "gmod4phun\weapons\m3super90\M3_NORM"
 	"$normalmapalphaenvmapmask" "1"
 	"$phong" 		"1"
 	"$phongexponent" 	"40"
